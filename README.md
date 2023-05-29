@@ -9,4 +9,4 @@ I used an Amazon-dataset (https://www.kaggle.com/datasets/lievgarcia/amazon-revi
 # Dependencies
 
 # Author
-@JessevanLier
+Jesse van Lier, supervised by Hannes Datta (TiSEM)
